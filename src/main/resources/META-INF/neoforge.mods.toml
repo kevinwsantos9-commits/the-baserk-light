@@ -1,0 +1,29 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "transformacao"
+version = "1.0.0"
+displayName = "Transformação"
+description = '''
+Evolua sua armadura matando monstros, gaste pontos de status e transforme-se:
+um rugido, um raio (sem dano) e a armadura aparece em você.
+'''
+
+[[mixins]]
+config = "transformacao.mixins.json"
+
+[[dependencies.transformacao]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.transformacao]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"

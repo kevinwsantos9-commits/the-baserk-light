@@ -1,0 +1,20 @@
+{
+  "key.categories.transformacao": "Transformação",
+  "key.transformacao.transform": "Transformar / Destransformar",
+  "key.transformacao.status": "Abrir status da armadura",
+
+  "screen.transformacao.title": "Armadura Demoníaca",
+  "screen.transformacao.level": "Nível %s",
+  "screen.transformacao.level_max": "Nível %s (MÁXIMO)",
+  "screen.transformacao.points": "Pontos disponíveis: %s",
+  "screen.transformacao.stat.str": "Força",
+  "screen.transformacao.stat.vit": "Vitalidade",
+  "screen.transformacao.stat.def": "Defesa",
+  "screen.transformacao.stat.agi": "Agilidade",
+  "screen.transformacao.transform": "Transformar",
+  "screen.transformacao.untransform": "Destransformar",
+  "screen.transformacao.hint": "XP dos monstros (x2 transformado)",
+
+  "msg.transformacao.xp": "+%s XP da armadura",
+  "msg.transformacao.levelup": "A armadura evoluiu para o nível %s!"
+}

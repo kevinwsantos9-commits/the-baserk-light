@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.exemplo.transformacao.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "PlayerModelMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}

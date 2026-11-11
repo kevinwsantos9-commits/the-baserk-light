@@ -1,0 +1,20 @@
+{
+  "key.categories.transformacao": "Transformation",
+  "key.transformacao.transform": "Transform / Revert",
+  "key.transformacao.status": "Open armor status",
+
+  "screen.transformacao.title": "Demonic Armor",
+  "screen.transformacao.level": "Level %s",
+  "screen.transformacao.level_max": "Level %s (MAX)",
+  "screen.transformacao.points": "Available points: %s",
+  "screen.transformacao.stat.str": "Strength",
+  "screen.transformacao.stat.vit": "Vitality",
+  "screen.transformacao.stat.def": "Defense",
+  "screen.transformacao.stat.agi": "Agility",
+  "screen.transformacao.transform": "Transform",
+  "screen.transformacao.untransform": "Revert",
+  "screen.transformacao.hint": "Monster XP (x2 transformed)",
+
+  "msg.transformacao.xp": "+%s armor XP",
+  "msg.transformacao.levelup": "Your armor reached level %s!"
+}
